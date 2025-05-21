@@ -62,7 +62,8 @@ Entrega realizada via Teams com link para o repositório no GitHub.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/MorganaSouza/CatList-APPEXPOAPI.git
+   git clone  https://github.com/MorganaSouza/catlist-expoapi.git
+
    ```
 
 2. Navegue até a pasta do projeto:
