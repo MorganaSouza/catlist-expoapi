@@ -12,6 +12,7 @@
 * **Lista de Raças de Gatos:** Mostra todas as raças de gatos disponíveis.
 * **Busca de Raças:** Permite buscar por uma raça específica de gato.
 * **Detalhes de Raça:** Ao selecionar uma raça, é possível visualizar:
+* **Salvar Raça:** Permite que o usuário salve uma raça favorita, armazenando essa informação localmente no dispositivo com o uso do AsyncStorage. Mesmo que o aplicativo seja fechado, ao reabrir, a raça salva continuará visível na lista de favoritos. Essa funcionalidade garante uma experiência personalizada e persistente, sem necessidade de conexão com a internet para recuperar os dados salvos.
 
   * Origem
   * Temperamento
